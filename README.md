@@ -1,5 +1,5 @@
 # 
-[![License](https://img.shields.io/github/license/rmuraix/)](./LICENSE)  
+[![License](https://img.shields.io/github/license/rmuraix/remo-widget-app)](./LICENSE)  
 ## About
   
 ## Usage
