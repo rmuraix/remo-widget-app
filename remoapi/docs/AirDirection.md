@@ -1,0 +1,5 @@
+# AirDirection
+
+## Enum
+
+    * `EMPTY` (value: `""`)
